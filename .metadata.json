@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Peptides",
+    "oncran": true
+  },
+  {
+    "package": "rPanglaoDB",
+    "oncran": true
+  }
+]
