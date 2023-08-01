@@ -5,12 +5,12 @@
 [submodule "Peptides"]
 	path = Peptides
 	url = https://github.com/dosorio/peptides
-[submodule "retriever"]
-	path = retriever
-	url = https://github.com/cran/retriever
-[submodule "rPanglaoDB"]
-	path = rPanglaoDB
-	url = https://github.com/dosorio/rpanglaodb
 [submodule "SCORPION"]
 	path = SCORPION
 	url = https://github.com/cran/SCORPION
+[submodule "rPanglaoDB"]
+	path = rPanglaoDB
+	url = https://github.com/dosorio/rpanglaodb
+[submodule "retriever"]
+	path = retriever
+	url = https://github.com/cran/retriever
